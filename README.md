@@ -1,1 +1,1 @@
-My first Udacity/ALX data analysis project where I had to clean,investigate and draw insights from a Medical Appointment dataset. This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. 
+
