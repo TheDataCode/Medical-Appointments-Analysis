@@ -42,4 +42,4 @@ Appointment_day
 I changed the No-show column to Showed_up for consistency.
 
 
-#### Insights, conclusions and Limitations of the data can be found in the 'medical_appointment_analysis,pynb' file.
+#### Insights, conclusions and Limitations of the data can be found in the 'medical_appointment_analysis.pynb' file.
